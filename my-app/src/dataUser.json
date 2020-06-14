@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Linda",
+    "tel": "0968487003",
+    "permission": 1
+  },
+  {
+    "name": "Justin",
+    "tel": "0968487112",
+    "permission": 2
+  },
+  {
+    "name": "Ben",
+    "tel": "0968487132",
+    "permission": 2
+  },
+  {
+    "name": "Zoe",
+    "tel": "0968487003",
+    "permission": 3
+  },
+  {
+    "name": "Sam",
+    "tel": "0968487003",
+    "permission": 1
+  },
+  {
+    "name": "Peter",
+    "tel": "0968487112",
+    "permission": 2
+  },
+  {
+    "name": "Jim",
+    "tel": "0968487132",
+    "permission": 2
+  },
+  {
+    "name": "Dan",
+    "tel": "0968487003",
+    "permission": 3
+  }
+]

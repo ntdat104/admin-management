@@ -1,0 +1,14 @@
+.SearchForm {
+  margin: 5px 0px;
+  display: flex;
+}
+
+.SearchForm input {
+  flex-grow: 1;
+  padding: 5px 0px;
+  outline: none;
+}
+
+.SearchForm button {
+  padding: 5px 10px;
+}
